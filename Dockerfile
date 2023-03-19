@@ -28,4 +28,3 @@ ENV LANG C.UTF-8
 # Define the version of OpenJDK we want
 ENV PYTHON_VERSION=3.8.16
 ENV FLYWAY_VERSION 8.4.3
-
