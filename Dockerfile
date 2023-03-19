@@ -24,7 +24,7 @@ RUN apk update && apk add bash
 EXPOSE 3000
 
 # Default to UTF-8 file.encoding
-ENV LANG C.UTF-8
-# Define the version of OpenJDK we want
-ENV PYTHON_VERSION=3.8.16
-ENV FLYWAY_VERSION 8.4.3
+# ENV LANG C.UTF-8
+#  Define the version of OpenJDK we want
+# ENV PYTHON_VERSION=3.8.16
+# ENV FLYWAY_VERSION 8.4.3
